@@ -212,6 +212,7 @@ table_files = \
 	ka-in-g1.utb \
 	kannada.cti \
 	kha.tbl \
+	kh-g1.ctb \
 	kh-in-g1.utb \
 	kn.tbl \
 	ko-2006.cti \
@@ -246,6 +247,8 @@ table_files = \
 	marburg_unicode_defs.cti \
 	ml-in-g1.utb \
 	ml.tbl \
+	mm-g1.ctb \
+	mm-g2.ctb \
 	mn-in-g1.utb \
 	mni.tbl \
 	mn-MN-common.cti \
@@ -365,7 +368,15 @@ table_files = \
 	us-table.dis \
 	uz-g1.utb \
 	vi.ctb \
+	vi-charsdef.uti \
 	vi-g1.ctb \
+	vi-lettersdef.uti \
+	vi-puncsdef.uti \
+	vi-south-g2.ctb \
+	vi-ueb-math.ctb \
+	vi-vn-g1.ctb \
+	vi-vn-g2.ctb \
+	vi-vn-g3.ctb \
 	vi.tbl \
 	wiskunde-chardefs.cti \
 	wordcx.dis \
