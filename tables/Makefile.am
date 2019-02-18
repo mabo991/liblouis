@@ -212,8 +212,8 @@ table_files = \
 	ka-in-g1.utb \
 	kannada.cti \
 	kha.tbl \
-	kh-g1.ctb \
 	kh-in-g1.utb \
+	km-g1.utb \
 	kn.tbl \
 	ko-2006.cti \
 	ko-2006-g1.ctb \
@@ -247,8 +247,6 @@ table_files = \
 	marburg_unicode_defs.cti \
 	ml-in-g1.utb \
 	ml.tbl \
-	mm-g1.ctb \
-	mm-g2.ctb \
 	mn-in-g1.utb \
 	mni.tbl \
 	mn-MN-common.cti \
@@ -263,6 +261,8 @@ table_files = \
 	mun.tbl \
 	mwr.ctb \
 	mwr.tbl \
+	my-g1.utb \
+	my-g2.ctb \
 	ne.ctb \
 	nemethdefs.cti \
 	ne.tbl \
