@@ -121,8 +121,7 @@ EXTRA_DIST =					\
 	uk.yaml					\
 	ur-pk-g2.yaml				\
 	uz.yaml					\
-	vi-g1_backward.yaml			\
-	vi-g1_harness.yaml			\
+	vi-g1.yaml				\
 	zh-chn.yaml				\
 	zh-tw.yaml				\
 	zhcn-g1.yaml				\

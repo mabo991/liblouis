@@ -150,7 +150,10 @@
 * ../../tables/ur-pk-g1.utb                      Urdu, uncontracted                                 Urdu uncontracted braille
 * ../../tables/ur-pk-g2.ctb                      Urdu, contracted                                   Urdu contracted braille
 * ../../tables/vi.ctb                            Vietnamese, computer                               Vietnamese computer braille
-* ../../tables/vi.tbl                            Vietnamese                                         Vietnamese braille
+* ../../tables/vi-vn-g0.utb                      Vietnamese, uncontracted                           Vietnamese uncontracted braille
+* ../../tables/vi-vn-g1.ctb                      Vietnamese, partially contracted                   Vietnamese partially contracted braille
+* ../../tables/vi-vn-g2.ctb                      Vietnamese, contracted                             Vietnamese contracted braille
+  ../../tables/vi-saigon-g1.ctb                  Vietnamese, Saigon, contracted                     Southern Vietnamese braille
   ../../tables/zh_CHN.tbl                        Mandarin, mainland China, without tones            Chinese braille without tones, for simplified Chinese characters
 * ../../tables/zh_HK.tbl                         Cantonese                                          Cantonese braille
   ../../tables/zh_TW.tbl                         Mandarin, Taiwan                                   Taiwanese braille
@@ -159,7 +162,3 @@
 * ../../tables/km-g1.utb                         Khmer                                              Khmer braille
 * ../../tables/my-g1.utb                         Burmese, uncontracted                              Burmese uncontracted braille
 * ../../tables/my-g2.ctb                         Burmese, contracted                                Burmese contracted braille
-* ../../tables/vi-vn-g0.utb                      Vietnamese, uncontracted                           Vietnamese uncontracted braille
-* ../../tables/vi-vn-g1.ctb                      Vietnamese, partially contracted                   Vietnamese partially contracted braille
-* ../../tables/vi-vn-g2.ctb                      Vietnamese, contracted                             Vietnamese contracted braille
-  ../../tables/vi-saigon-g1.ctb                  Vietnamese, Saigon, contracted                     Southern Vietnamese braille
