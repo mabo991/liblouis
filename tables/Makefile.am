@@ -16,7 +16,11 @@ table_files = \
 	ba.utb \
 	be-in-g1.utb \
 	bengali.cti \
+	bg-6dots.dis \
+	bg-chardefs.cti \
 	bg.ctb \
+	bg-letterdef-6dots.uti \
+	bg-lit-6dots.ctb \
 	bg.tbl \
 	bh.ctb \
 	bh.tbl \
